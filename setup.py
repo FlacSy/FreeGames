@@ -24,7 +24,7 @@ setup(
         'Programming Language :: Python :: 3.8',
         'Programming Language :: Python :: 3.9',
     ],
-    keywords=['Habr Parser', 'Habr', 'Habr API'],
+    keywords=['FreeGames', 'Free Games', 'Free Games API'],
     packages=find_packages(),
     install_requires=['requests', 'bs4'],
 )
