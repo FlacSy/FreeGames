@@ -4,7 +4,7 @@ with open('README.md', encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='freegames',
+    name='py-freegames',
     version='1.0.0',
     description='A Python library for scraping and extracting information about game discounts.',
     url='https://github.com/FlacSy/FreeGames',
